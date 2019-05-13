@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">I Am Poor</string>
+    <string name="field1">I Am Poor</string>
+    <string name="field2">I Am</string>
+    <string name="field3">Poor</string>
+
 </resources>
